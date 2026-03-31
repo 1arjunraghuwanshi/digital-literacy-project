@@ -1,124 +1,164 @@
 # Digital Literacy Project
+## CSE0001 – VIT Bhopal University
+
+---
 
 ## Student Details
 
-**Name:** Arjun Raghuwanshi
-**Registration Number:** YOUR_REG_NO
-**Branch:** B.Tech Mechanical Engineering
-**University:** VIT Bhopal University
-**Course Code:** CSE0001
-**Course Title:** Digital Literacy
+| Field | Details |
+|---|---|
+| Name | Piyush Mishra |
+| Registration Number | 25BEY10013 |
+| Branch | Computer Science Engineering |
+| Year | First Year B.Tech |
+| Course Code | CSE0001 |
+| Course Title | Digital Literacy |
 
 ---
 
-# Project Overview
-
-This Digital Literacy Portfolio is created as part of the CSE0001 Digital Literacy course. The aim of this project is to develop awareness about digital tools, professional online presence, safe internet practices, and cybercrime prevention. This repository contains five tasks that demonstrate essential digital literacy skills required for students.
-
----
-
-# Tasks Completed
-
-## Task 1 – Digital Literacy Awareness Infographic
-
-Created a one-page infographic explaining digital literacy, safe internet practices, and professional online presence using Canva.
-
-Folder: `task-1-presentation/`
+## Project Overview
+My Digital Literacy Portfolio, which I developed for the VIT Bhopal University CSE0001 course, is included in this repository. As a Student Digital Ambassador, I have finished all five tasks and recorded my work, observations, and reflections in this repository.
 
 ---
 
-## Task 2 – Student Digital Portfolio
+## Repository Structure
 
-Created professional profiles on the following platforms:
-
-* GitHub
-* LinkedIn
-* HackerRank
-
-Screenshots of profiles are included.
-
-Folder: `task-2-portfolio/`
-
----
-
-## Task 3 – Coding & Collaboration Platforms
-
-* Completed beginner challenge on HackerRank
-* Created Digital Literacy Awareness Quiz using Google Forms
-
-Folder: `task-3-platforms/`
-
-Google Form Link:
-PASTE_YOUR_FORM_LINK_HERE
+| Folder | Contents |
+|---|---|
+| report/ | Complete project report |
+| task-1-Presentation/ | Digital literacy infographic |
+| task-2-Portfolio/ | Digital profile screenshots |
+| task-3-Coding and Collaboration/ | HackerRank and Google Form |
+| task-4/ | Email drafts and checklist |
+| task-5/ | Case study and prevention guide |
 
 ---
 
-## Task 4 – Email Etiquette
+## Module Summaries
 
-* Professional email to professor (assignment extension)
-* Internship request email
-* Social media do's and don'ts checklist
+### Task 1 – Digital Literacy Infographic
+Created a one page infographic using Canva 
+covering three topics — what digital literacy is, 
+useful digital tools for students, and safe 
+internet practices.
 
-Folder: `task-4-email-etiquette/`
+### Task 2 – Student Digital Portfolio
+Set up professional profiles on GitHub, LinkedIn 
+and Kaggle. Created a GitHub profile README with 
+my name, branch, year and learning goals.
 
----
+### Task 3 – Coding and Collaboration Platforms
+Completed the Solve Me First challenge on 
+HackerRank. Created a five question Digital 
+Literacy Awareness Quiz using Google Forms and 
+linked it to a Google Sheet.
 
-## Task 5 – Cybercrime Awareness
+### Task 4 – Email Etiquette
+Wrote two professional emails — one to a professor 
+requesting a deadline extension and one to an 
+internship coordinator. Created a social media 
+Do's and Don'ts checklist.
 
-* Case study on UPI fraud
-* Prevention checklist for students
-
-Folder: `task-5-cybercrime/`
-
----
-
-# Repository Structure
-
-```
-digital-literacy-project
-│
-├── README.md
-│
-├── report/
-│   └── Project_Report.pdf
-│
-├── task-1-presentation/
-│
-├── task-2-portfolio/
-│
-├── task-3-platforms/
-│
-├── task-4-email-etiquette/
-│
-└── task-5-cybercrime/
-```
+### Task 5 – Cybercrime Awareness
+Researched phishing attacks and wrote a detailed 
+case study. Created a Stay Safe Online checklist 
+with 10 prevention tips including UPI safety and 
+reporting channels.
 
 ---
 
-# Tools Used
-
-* Canva
-* GitHub
-* LinkedIn
-* HackerRank
-* Google Forms
+## Google Form Quiz Link
+[Click here to take the Digital Literacy Quiz]
+# Digital Literacy Project
+## CSE0001 – VIT Bhopal University
 
 ---
 
-# Learning Outcomes
+## Student Details
 
-Through this project, I learned:
-
-* Digital literacy fundamentals
-* Professional online presence
-* Email etiquette
-* Cybercrime awareness
-* Collaboration tools
+| Field | Details |
+|---|---|
+| Name | ArjunRaghuwanshi |
+| Registration Number | 24BMR10021 |
+| Branch | Mechanical engineeringg |
+| Year | second Year B.Tech |
+| Course Code | CSE0001 |
+| Course Title | Digital Literacy |
 
 ---
 
-# Author
+## Project Overview
+My Digital Literacy Portfolio, which I developed for the VIT Bhopal University CSE0001 course, is included in this repository. As a Student Digital Ambassador, I have finished all five tasks and recorded my work, observations, and reflections in this repository.
 
-Arjun Raghuwanshi
-B.Tech Mechanical Engineering
-VIT Bhopal University
+---
+
+## Repository Structure
+
+| Folder | Contents |
+|---|---|
+| report/ | Complete project report |
+| task-1-Presentation/ | Digital literacy infographic |
+| task-2-Portfolio/ | Digital profile screenshots |
+| task-3-Coding and Collaboration/ | HackerRank and Google Form |
+| task-4/ | Email drafts and checklist |
+| task-5/ | Case study and prevention guide |
+
+---
+
+## Module Summaries
+
+### Task 1 – Digital Literacy Infographic
+Created a one page infographic using Canva 
+covering three topics — what digital literacy is, 
+useful digital tools for students, and safe 
+internet practices.
+
+### Task 2 – Student Digital Portfolio
+Set up professional profiles on GitHub, LinkedIn 
+and Kaggle. Created a GitHub profile README with 
+my name, branch, year and learning goals.
+
+### Task 3 – Coding and Collaboration Platforms
+Completed the Solve Me First challenge on 
+HackerRank. Created a five question Digital 
+Literacy Awareness Quiz using Google Forms and 
+linked it to a Google Sheet.
+
+### Task 4 – Email Etiquette
+Wrote two professional emails — one to a professor 
+requesting a deadline extension and one to an 
+internship coordinator. Created a social media 
+Do's and Don'ts checklist.
+
+### Task 5 – Cybercrime Awareness
+Researched phishing attacks and wrote a detailed 
+case study. Created a Stay Safe Online checklist 
+with 10 prevention tips including UPI safety and 
+reporting channels.
+
+---
+
+## Google Form Quiz Link
+[Click here to take the Digital Literacy Quiz]
+(https://docs.google.com/forms/d/e/1FAIpQLSfI2wsPfYyZpvSPlnn8f_cwG2oglN0fVeDVkIfu8opE6Wc5YA/viewform?usp=publish-editor)
+---
+
+## References
+- Canva – canva.com
+- GitHub – github.com
+- LinkedIn – linkedin.com
+- Kaggle – kaggle.com
+- HackerRank – hackerrank.com
+- Google Forms – forms.google.com
+- National Cyber Crime Portal – cybercrime.gov.in
+- Cyber Crime Helpline – 1930
+
+## References
+- Canva – canva.com
+- GitHub – github.com
+- LinkedIn – linkedin.com
+- Kaggle – kaggle.com
+- HackerRank – hackerrank.com
+- Google Forms – forms.google.com
+- National Cyber Crime Portal – cybercrime.gov.in
+- Cyber Crime Helpline – 1930
