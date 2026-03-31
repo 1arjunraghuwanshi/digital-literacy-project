@@ -7,10 +7,10 @@
 
 | Field | Details |
 |---|---|
-| Name | Piyush Mishra |
-| Registration Number | 25BEY10013 |
-| Branch | Computer Science Engineering |
-| Year | First Year B.Tech |
+| Name | Arjun Raghuwanshi |
+| Registration Number | 24BMR10021 |
+| Branch | Mechanical Engineering Ai and robotics|
+| Year | second Year B.Tech |
 | Course Code | CSE0001 |
 | Course Title | Digital Literacy |
 
