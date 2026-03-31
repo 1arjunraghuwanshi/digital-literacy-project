@@ -140,7 +140,7 @@ reporting channels.
 
 ## Google Form Quiz Link
 [Click here to take the Digital Literacy Quiz]
-(https://docs.google.com/forms/d/e/1FAIpQLSfI2wsPfYyZpvSPlnn8f_cwG2oglN0fVeDVkIfu8opE6Wc5YA/viewform?usp=publish-editor)
+https://docs.google.com/forms/d/e/1FAIpQLScnh7H8bCHAU-RAn-nqDgX-c6SeNQ_1lWr6Htjm7UYHVtuBDA/viewform?usp=header
 ---
 
 ## References
